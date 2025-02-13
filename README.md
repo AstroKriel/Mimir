@@ -1,1 +1,1 @@
-# Mimir
+# Mimir (collection of my papers)
