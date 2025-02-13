@@ -1,3 +1,6 @@
 [submodule "submodules/Kriel2023_exp_ssd"]
 	path = submodules/Kriel2023_exp_ssd
 	url = git@github.com:AstroKriel/Kriel2023_exp_ssd.git
+[submodule "Kriel2023_exp_ssd"]
+	path = Kriel2023_exp_ssd
+	url = git@github.com:AstroKriel/Kriel2023_exp_ssd.git
